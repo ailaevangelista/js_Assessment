@@ -13,7 +13,7 @@ Once you are on the programiz website,  Copy and paste the following code into t
 
 #### CODES
 
-// create a variable to hold your NFT's
+```// create a variable to hold your NFT's
 const x = []
 
 // this function will take in some values as parameters, create an
@@ -55,7 +55,7 @@ mint("Kin", "Pink", "T-shirt", "Ring");
 mint("Shanai", "Orange", "Sleeveless", "Necklace");
 mint("CM", "Ube", "Coat", "Earings");
 list();
-total();
+total(); ```
 
 
 #### Authors
